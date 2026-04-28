@@ -1,5 +1,7 @@
 __pycache__/
 .ipynb_checkpoints/
+notebooks/spam_model/
+notebooks/results/
 .env
 .venv/
 data/
